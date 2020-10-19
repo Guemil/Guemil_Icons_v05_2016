@@ -22,9 +22,9 @@ We tested Guemil v05 so we could keep improving this project | Pusimos a prueba 
 
 ### Creative Commons License | Licencia Creative Commons
 
-Guemil Icons for Emergency is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+Guemil Icons for Emergency is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
 
-**This means that you are free to:**
+**You are free to:**
 
 - **Share** — copy and redistribute the material in any medium or format
 
