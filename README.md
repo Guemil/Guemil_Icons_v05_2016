@@ -6,7 +6,7 @@ Guemil makes available a graphic tool for diverse stages and platforms of inform
 
 Guemil permite disponer de una herramienta gráfica para diversas etapas y plataformas de información (antes → durante → después). Los iconos son recursos simples y útiles para el diseño de comunicación y la investigación aplicada.
 
-We tested Guemil v05 so we could keep improving this project | Pusimos a prueba Guemil v05 para poder seguir mejorardo:
+We tested Guemil v05 so we could keep on improving | Pusimos a prueba Guemil v05 para poder seguir mejorardo. The results were the following:
 
 - https://test.guemil.info/meaning-v05/
 
@@ -20,9 +20,9 @@ We tested Guemil v05 so we could keep improving this project | Pusimos a prueba 
 
 - - - - - - - - - - 
 
-### Creative Commons License | Licencia Creative Commons
+### <img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/63_Gv05-CreativeCommons.png" with="75" height="75"> Creative Commons License | Licencia Creative Commons
 
-Guemil Icons for Emergency is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
+Guemil Icons for Emergency by [Rodrigo Ramírez](https://www.guemil.info/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 **You are free to:**
 
@@ -38,7 +38,7 @@ The licensor cannot revoke these freedoms as long as you follow **the license te
 
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-Guemil Íconos para la Emergencia utiliza licencia de <a rel="Licencia" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es">Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a>.
+Guemil, desarrollado por Rodrigo Ramírez, se distribuye bajo una [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
 **Usted es libre de:**
 
