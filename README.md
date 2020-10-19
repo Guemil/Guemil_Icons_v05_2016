@@ -1,6 +1,6 @@
-# Guemil v05 2016
+# Guemil v05 (2016)
 
-### Guemil's first version
+### First version for an open-source icon initiative to represent risks and emergencies | Primera versión de una iniciativa de iconos open-source para representar situaciones de riesgo y emergencia
 
 Guemil makes available a graphic tool for diverse stages and platforms of information (before → during → after). Icons are simple & useful resources for communication design and applied research.
 
