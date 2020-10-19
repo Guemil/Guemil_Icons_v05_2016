@@ -54,7 +54,7 @@ El licenciante no puede revocar estas libertades en tanto usted siga **los térm
 
 - - - - - - - - - 
 
-#### Questions, comments? | Preguntas, comentarios?**
+#### Questions, comments? | Preguntas, comentarios?
 
 **Email**: guemilproject@gmail.com
 
