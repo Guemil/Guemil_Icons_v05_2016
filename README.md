@@ -1,4 +1,10 @@
-# Guemil_v05_2016
+# Guemil v05 2016
+
+### Guemil's first version
+
+We tested its meaning according to international practice - https://test.guemil.info/meaning-v05/
+
+We alsa tested its difference - https://test.guemil.info/differences-v05/ 
 
 ```
 01_Gv05-Man.svg
