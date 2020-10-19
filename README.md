@@ -4,7 +4,9 @@
 
 We tested its meaning according to international practice - https://test.guemil.info/meaning-v05/
 
-We alsa tested its difference - https://test.guemil.info/differences-v05/ 
+We also tested its difference - https://test.guemil.info/differences-v05/ 
+
+Using that feedback, we kept on working and two years later we published Guemil v10.
 
 ```
 01_Gv05-Man.svg
