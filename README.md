@@ -20,7 +20,7 @@ We tested Guemil v05 so we could keep on improving | Pusimos a prueba Guemil v05
 
 - - - - - - - - - - 
 
-### <img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/63_Gv05-CreativeCommons.png" with="75" height="75"> Creative Commons License | Licencia Creative Commons
+### <img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/63_Gv05-CreativeCommons.png" with="25" height="25"> Creative Commons License | Licencia Creative Commons
 
 Guemil Icons for Emergency by [Rodrigo Ramírez](https://www.guemil.info/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
