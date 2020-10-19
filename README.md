@@ -20,9 +20,7 @@ We tested Guemil v05 so we could keep on improving | Pusimos a prueba Guemil v05
 
 - - - - - - - - - - 
 
-### <img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/63_Gv05-CreativeCommons.png" with="25" height="25"> Creative Commons License | Licencia Creative Commons
-
-Guemil Icons for Emergency by [Rodrigo Ramírez](https://www.guemil.info/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+#### Guemil Icons for Emergency by [Rodrigo Ramírez](https://www.guemil.info/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 **You are free to:**
 
@@ -38,7 +36,7 @@ The licensor cannot revoke these freedoms as long as you follow **the license te
 
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-Guemil, desarrollado por Rodrigo Ramírez, se distribuye bajo una [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
+#### Guemil, desarrollado por [Rodrigo Ramírez](https://www.guemil.info/), se distribuye bajo una [Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
 **Usted es libre de:**
 
@@ -56,7 +54,7 @@ El licenciante no puede revocar estas libertades en tanto usted siga **los térm
 
 - - - - - - - - - 
 
-**Questions, comments? | Preguntas, comentarios?**
+#### Questions, comments? | Preguntas, comentarios?**
 
 **Email**: guemilproject@gmail.com
 
