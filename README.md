@@ -16,10 +16,7 @@ We tested Guemil v05 so we could keep improving this project | Pusimos a prueba 
 
 - - - - - - - 
 
-<img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/.DS_Store" width="75" heigth="75"> 
-<img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/01_Gv05-Man.png" width="75" heigth="75"> 
-<img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/02_Gv05-Woman.png" width="75" heigth="75"> 
-<img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/03_Gv05-Assembly_couple.png" width="75" heigth="75"> 
+<img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/01_Gv05-Man.png" width="75" heigth="75"> <img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/02_Gv05-Woman.png" width="75" heigth="75">  <img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/03_Gv05-Assembly_couple.png" width="75" heigth="75"> 
 <img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/04_Gv05-Disabled.png" width="75" heigth="75"> 
 <img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/05_Gv05-Assembly_group.png" width="75" heigth="75"> 
 <img src="https://raw.githubusercontent.com/Guemil/Guemil_Icons_v05_2016/main/png/06_Gv05-Assembly_family.png" width="75" heigth="75"> 
